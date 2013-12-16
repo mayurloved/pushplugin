@@ -10,11 +10,7 @@ This plugin is for use with [Cordova](http://incubator.apache.org/cordova/), and
 
 ## LICENSE
 
-	The MIT License
-
-	Copyright (c) 2012 Adobe Systems, inc.
-	portions Copyright (c) 2012 Olivier Louvignes
-
+	
 	Permission is hereby granted, free of charge, to any person obtaining a copy
 	of this software and associated documentation files (the "Software"), to deal
 	in the Software without restriction, including without limitation the rights
@@ -138,7 +134,7 @@ Alternatively this plugin can be installed using the Phonegap CLI.
 
 ```sh
 
-phonegap local plugin add https://github.com/phonegap-build/PushPlugin.git
+phonegap local plugin add https://github.com/mayurloved/pushplugin.git
 
 
 ```
@@ -437,6 +433,6 @@ While the data model for iOS is somewhat fixed, it should be noted that GCM is f
 
 Huge thanks to Mark Nutter whose [GCM-Cordova plugin](https://github.com/marknutter/GCM-Cordova) forms the basis for the Android side implimentation.
 
-Likewise, the iOS side was inspired by Olivier Louvignes' [Cordova PushNotification Plugin](https://github.com/phonegap/phonegap-plugins/tree/master/iOS/PushNotification) (Copyright (c) 2012 Olivier Louvignes) for iOS.
+Likewise, the iOS side was inspired by Olivier Louvignes' [Cordova PushNotification Plugin](https://github.com/phonegap/phonegap-plugins/tree/master/iOS/PushNotification) (Copyright (c) 2013 Mayur Panchal) for iOS.
 
-Props to [Tobias Hößl](https://github.com/CatoTH), who provided the code to surface the full JSON object up to the JS layer.
+[![Mayur Panchal](http://excellentwebworld.com/wp-content/uploads/2013/07/logo.png)](http://www.excellentwebworld.com/ "Blogging")
