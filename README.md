@@ -136,6 +136,9 @@ Alternatively this plugin can be installed using the Phonegap CLI.
 
 phonegap local plugin add https://github.com/mayurloved/pushplugin.git
 
+or
+
+cordova plugin add https://github.com/mayurloved/pushplugin.git
 
 ```
 
